@@ -29,3 +29,4 @@ To get started with the project, clone the repository and navigate to the projec
 ```bash
 git clone https://github.com/gowthamsai117/digital-marketing-landing-page.git
 cd digital-marketing-landing-page
+```
