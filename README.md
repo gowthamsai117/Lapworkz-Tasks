@@ -30,3 +30,34 @@ To get started with the project, clone the repository and navigate to the projec
 git clone https://github.com/gowthamsai117/digital-marketing-landing-page.git
 cd digital-marketing-landing-page
 ```
+
+# 3. Calculator Web Application
+
+This is a simple calculator web application built using HTML, CSS, and JavaScript. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+
+## Features
+
+- Basic arithmetic operations: addition, subtraction, multiplication, and division
+- Clear button to reset the calculator
+- Responsive design
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+### Prerequisites
+
+Make sure you have a modern web browser installed.
+
+### Installation
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/gowthamsai117/calculator-web.git
+   ```
